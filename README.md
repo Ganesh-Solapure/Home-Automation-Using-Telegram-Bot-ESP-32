@@ -37,9 +37,12 @@ Insert an image of your circuit here.
 Upload your circuit diagram (e.g., from Fritzing or hand-drawn).  
 
 ```markdown
-![Circuit Diagram](images/circuit-diagram.png)
+![Circuit Diagram](images/circuit-diagram1.png)
 ```
 
+```markdown
+![Circuit Diagram](images/circuit-diagram2.png)
+```
 ---
 
 ### **3. Software Requirements**
