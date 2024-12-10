@@ -37,11 +37,10 @@ Insert an image of your circuit here.
 Upload your circuit diagram (e.g., from Fritzing or hand-drawn).  
 
 ```markdown
-![Circuit Diagram](images/circuit-diagram1.png)
-```
 
-```markdown
-![Circuit Diagram](images/circuit-diagram2.png)
+![circuit-diagram1](https://github.com/user-attachments/assets/7da5db21-323e-4091-b528-b9a6c416f74a)
+
+
 ```
 ---
 
