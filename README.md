@@ -1,7 +1,6 @@
-
+# Home Automation Using Telegram Bot and ESP32
 
 This project demonstrates how to build a **smart home automation system** using an **ESP32 microcontroller** and a **Telegram Bot**. Users can control various devices such as lights, fans, and other appliances using a Telegram bot interface.Features include GPIO management, Wi-Fi connectivity, MQTT/HTTP protocols, real-time updates, and secure access using Telegram's API.
-
 
 ---
 
