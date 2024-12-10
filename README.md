@@ -37,8 +37,8 @@ Insert an image of your circuit here.
 Upload your circuit diagram (e.g., from Fritzing or hand-drawn).  
 
 
-![circuit-diagram1](https://github.com/user-attachments/assets/9645de28-6f31-4427-b6ef-83755b8940c7)
-![circuit-diagram2](https://github.com/user-attachments/assets/ddfc7c01-7292-4a4c-8491-b22981cf99b6)
+![circuit-diagram1](https://github.com/user-attachments/assets/f94e8980-ec1c-46ff-9c8e-7f73ba7d8d58)
+![circuit-diagram2](https://github.com/user-attachments/assets/24ada56c-8ccf-4e8d-b1db-ffa07aaaed4c)
 
 
 ---
