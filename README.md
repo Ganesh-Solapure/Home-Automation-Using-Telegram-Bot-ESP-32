@@ -36,11 +36,11 @@ Connect the output pins on the ESP32 (`13, 14, 12, ...`) to the respective devic
 Insert an image of your circuit here.  
 Upload your circuit diagram (e.g., from Fritzing or hand-drawn).  
 
-```markdown
+
 ![circuit-diagram1](https://github.com/user-attachments/assets/9645de28-6f31-4427-b6ef-83755b8940c7)
 ![circuit-diagram2](https://github.com/user-attachments/assets/ddfc7c01-7292-4a4c-8491-b22981cf99b6)
 
-```
+
 ---
 
 ### **3. Software Requirements**
