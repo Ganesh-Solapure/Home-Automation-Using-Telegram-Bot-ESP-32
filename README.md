@@ -161,29 +161,3 @@ For any queries or suggestions, reach out via GitHub.
 Contributions are welcome! Feel free to submit a pull request or open an issue for improvements.
 
 ---
-
-### **Instructions for Adding Images and Videos**
-
-1. **Circuit Diagram**:  
-   - Use tools like [Fritzing](https://fritzing.org/) to create a neat circuit diagram.
-   - Save the image in the repository's `/images` folder.
-
-2. **Working Demo**:  
-   - Record a video of your setup in action (e.g., using a smartphone).
-   - Convert it into a GIF using tools like [EZGIF](https://ezgif.com/video-to-gif) or save the video file.
-
-3. **Prototype Image**:  
-   - Take a clear photo of your prototype.
-   - Save it as `/images/prototype.jpg` in the repository.
-
-### **Embedding Media**
-Ensure your images and videos are properly linked in the `README.md`:
-- Upload images/videos to your repository (`/images` folder).
-- Use relative paths in Markdown, such as:
-  ```markdown
-  ![Prototype](images/prototype.jpg)
-  ```
-- For videos, upload them to platforms like YouTube and embed the link:
-  ```markdown
-  [![Watch the video](images/video-thumbnail.png)](https://www.youtube.com/watch?v=example)
-  ```
