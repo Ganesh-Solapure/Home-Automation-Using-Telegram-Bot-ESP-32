@@ -93,6 +93,17 @@ char password[] = "Your_WIFI_Password";
 
 ---
 
+### **5. Telegram Bot Chats**
+
+![Screenshot_20241228-212116_Telegram](https://github.com/user-attachments/assets/2ac91522-062b-473b-8755-13d5535e62d6)
+![Screenshot_20241228-212101_Telegram](https://github.com/user-attachments/assets/a3c422ec-a792-4a7f-9f82-8e84b95916ea)
+![Screenshot_20241228-211958_Telegram](https://github.com/user-attachments/assets/d6587880-f101-4d31-968d-ab3595782a82)
+![Screenshot_20241228-211912_Telegram](https://github.com/user-attachments/assets/515898e4-1afe-41fc-8711-cf00a2c4f02b)
+![Screenshot_20241228-211836_Telegram](https://github.com/user-attachments/assets/bc6ae8b5-7782-4d6e-a8ae-baeaef874da8)
+
+
+---
+
 ## Demo
 
 Include working images or videos here. For example:
