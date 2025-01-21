@@ -1,3 +1,7 @@
+// Copyright [2024] [Ganesh Solapure]
+// https://github.com/Ganesh-Solapure/Home-Automation-Using-Telegram-Bot-ESP-32/blob/main/LICENSE
+
+
 #include <ESP8266WiFi.h>
 #include <Servo.h>
 
